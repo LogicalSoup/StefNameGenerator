@@ -1,0 +1,7 @@
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\bin\Debug\StefNameGenerator.exe.config
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\bin\Debug\StefNameGenerator.exe
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\bin\Debug\StefNameGenerator.pdb
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\obj\Debug\StefNameGenerator.csprojAssemblyReference.cache
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\obj\Debug\StefNameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\obj\Debug\StefNameGenerator.exe
+C:\Users\Tom\Desktop\StefNameGenerator\StefNameGenerator\obj\Debug\StefNameGenerator.pdb
