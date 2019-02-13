@@ -17,8 +17,12 @@ namespace StefNameGenerator
                 "Beth",
                 "Stefano",
                 "Stef",
+                "Steaf",
+                "Steafanie",
+                "Chefanie",
                 "Gosh",
                 "Gregg",
+                "Mash",
                 "Willian",
                 "Jesus"
             };
@@ -31,6 +35,7 @@ namespace StefNameGenerator
                 "Sponge",
                 "Knock",
                 "Gazzad",
+                "Berry",
                 "Bait",
                 "Almond"
             };
@@ -45,6 +50,7 @@ namespace StefNameGenerator
                 "call",
                 "bob",
                 "fool",
+                "cube",
                 "leith",
                 "zone"
             };
