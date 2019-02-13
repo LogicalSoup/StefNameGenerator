@@ -36,6 +36,9 @@ namespace StefNameGenerator
                 "Knock",
                 "Gazzad",
                 "Berry",
+                "Gizzard",
+                "Plender",
+                "Lizzard",
                 "Bait",
                 "Almond"
             };
@@ -51,6 +54,7 @@ namespace StefNameGenerator
                 "bob",
                 "fool",
                 "cube",
+                "sleigh",
                 "leith",
                 "zone"
             };
