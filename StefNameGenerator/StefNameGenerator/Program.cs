@@ -41,6 +41,7 @@ namespace StefNameGenerator
                 "Lizzard",
                 "Goddard",
                 "Bait",
+                "Bats",
                 "Almond"
             };
 
