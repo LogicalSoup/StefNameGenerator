@@ -24,6 +24,7 @@ namespace StefNameGenerator
                 "Gregg",
                 "Mash",
                 "Willian",
+                "Joby",
                 "Jesus"
             };
 
