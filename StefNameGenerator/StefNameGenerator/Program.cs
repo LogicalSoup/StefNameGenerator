@@ -22,6 +22,7 @@ namespace StefNameGenerator
                 "Chefanie",
                 "Gosh",
                 "Gregg",
+                "Graig",
                 "Mash",
                 "Willian",
                 "Joby",
