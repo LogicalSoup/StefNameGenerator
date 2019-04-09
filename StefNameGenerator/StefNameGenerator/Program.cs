@@ -24,6 +24,8 @@ namespace StefNameGenerator
                 "Gregg",
                 "Graig",
                 "Mash",
+                "Moss",
+                "Mozz",
                 "Willian",
                 "Joby",
                 "Jesus"
